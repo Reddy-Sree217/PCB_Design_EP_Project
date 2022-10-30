@@ -1,7 +1,7 @@
- PCB_Design_EP_Project
- Electronic Packaging Course Project
- Team members - K Sreenivasulu Reddy
-               K V S S Pavan Teja
+ **PCB_Design_EP_Project
+ **Electronic Packaging Course Project
+ **Team members - K Sreenivasulu Reddy
+ **               K V S S Pavan Teja
 
 
 Aim is to build PCB which performs motion sensor based light system.
